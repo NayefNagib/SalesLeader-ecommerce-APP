@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "SalesLeader",
+    "slug": "SalesLeader",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/SLLO.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/SLLO.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "runtimeVersion": {
+        "policy": "appVersion"
+      },
+      "bundleIdentifier": "com.engahmednagib.SalesLeader",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/SLLOr.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.engahmednagib.SalesLeader",
+      "runtimeVersion": "1.0.0",
+      "versionCode": 13
+    },
+    "web": {
+      "favicon": "./assets/SLLOr.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6be941ae-d965-42f8-bf6b-2a584cda157f"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/6be941ae-d965-42f8-bf6b-2a584cda157f"
+    }
+  }
+}

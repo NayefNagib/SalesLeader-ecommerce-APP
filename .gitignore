@@ -1,0 +1,46 @@
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Native generated folders
+/android
+/ios
+
+# Build files
+*.apk
+*.aab
+
+# Environment files
+.env
+.env.local
+.env.*
+
+# Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Firebase
+google-services.json
+GoogleService-Info.plist
+
+# EAS
+.eas/
+
+# Misc
+*.pem
