@@ -1,6 +1,8 @@
 # SalesLeader
 
-Modern AI-ready mobile e-commerce platform built with React Native, Expo, Firebase, and TypeScript.
+Modern e-commerce marketplace application built with React Native, Expo, Firebase, and TypeScript.
+
+Designed with scalable architecture, real-time synchronization, and highly animated UI/UX systems.
 
 ---
 
