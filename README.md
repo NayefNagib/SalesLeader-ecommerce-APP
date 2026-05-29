@@ -9,12 +9,11 @@ Designed with scalable architecture, real-time synchronization, and highly anima
 
 ## Screenshots
 
-### Home Screen                            ### Profile Screen
-![Home](Screenshots/HomePage.png)          ![Profile](Screenshots/ProfilePage.png)
+### Home Screen                            Profile Screen                               Product Screen
+![Home](Screenshots/HomePage.png)          ![Profile](Screenshots/ProfilePage.png)      ![Product](Screenshots/ProductPage.png)
 
 
-### Product Screen
-![Product](Screenshots/ProductPage.png)
+
 
 there are more in the screenshot folder for more refrence
 ## Features
