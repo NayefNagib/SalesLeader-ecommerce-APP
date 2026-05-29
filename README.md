@@ -10,13 +10,13 @@ Designed with scalable architecture, real-time synchronization, and highly anima
 ## Screenshots
 
 ### Home Screen
-![Home](screenshots/HomePage.png)
+![Home](Screenshots/HomePage.png)
 
 ### Profile Screen
-![Profile](screenshots/ProfilePage.png)
+![Profile](Screenshots/ProfilePage.png)
 
 ### Chat Screen
-![Product](screenshots/ProductPage.png)
+![Product](Screenshots/ProductPage.png)
 ## Features
 
 - Multi-store marketplace system
